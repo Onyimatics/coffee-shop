@@ -3,6 +3,7 @@ venv/
 __pycache__/
 test.db
 rough
+package-lock.json
 # OS generated files #
 ######################
 .DS_Store
